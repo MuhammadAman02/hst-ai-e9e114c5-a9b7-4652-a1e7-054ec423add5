@@ -2,5 +2,9 @@
   {
     "role": "user",
     "content": "build what is in image"
+  },
+  {
+    "role": "user",
+    "content": "build what is in image"
   }
 ]
